@@ -1,3 +1,7 @@
+# What is custom emmet snippets?
+
+This feature helps the coder to customize their own shortcuts.
+
 # How to use?
 It's simple just follow the steps and don't forget to Star the repository so that it can help others to!🔥🙌
 
